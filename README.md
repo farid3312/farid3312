@@ -48,7 +48,7 @@ Desarrollador enfocado en **Sistemas Embebidos**, **Robótica** y **Simulación 
   <a href="https://github.com/farid3312">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://linkedin.com/in/farid-s-c-m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
