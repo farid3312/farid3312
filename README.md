@@ -66,8 +66,12 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 
 ## 🚀 Proyecto Destacado
 
-**[Pysimverse-DroneESP](https://github.com/farid3312/Pysimverse-DroneESP)**  
-Simulación de drones en Python + firmware ESP32 para lectura de sensores, control e interfaz.
+### 🛸 [Pysimverse-DroneESP](https://github.com/farid3312/Pysimverse-DroneESP)
+
+Simulador en Python + firmware ESP32 para aprender a armar un drone desde cero. Incluye misiones interactivas (teclado, gestos con MediaPipe, capturas), templates y conexión con control físico (ESP32 + joysticks + OLED) para luego construir un drone real con FC ESP32.
+
+**Basado en:** [freeCodeCamp – Learn Drone Programming with Python](https://www.youtube.com/watch?v=k-yDYgc8AmU&t=5305s)  
+**Inspirado en:** [nikhiltelase/mini-esp-now-rc-drone](https://github.com/nikhiltelase/mini-esp-now-rc-drone/tree/main)
 
 ## Conéctate conmigo:
 
