@@ -1,8 +1,8 @@
-### Hi there, I'm [Farid Santiago Carvajal Morales](https://github.com/farid3312) 👋
+### Hola, soy [Farid Santiago Carvajal Morales](https://github.com/farid3312) 👋
 
 Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en la Universidad del Cauca. Enfocado en Sistemas Embebidos, Robótica, IoT y Visión por Computador. Actualmente desarrollo mi tesis en visión por eventos y redes neuronales de pulsos (SNN) para clasificación de movimiento del miembro superior.
 
-**My Research Interest**:
+**Mis Áreas de Interés**:
 - Sistemas Embebidos
 - IoT
 - Robótica
@@ -10,15 +10,15 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 - Redes Neuronales de Pulsos (SNN)
 - Simulación de Drones
 
-**I am open to**:
+**Estoy abierto a**:
 - Colaboraciones en robótica, drones, IoT y visión por computador.
 - Proyectos de firmware, sistemas embebidos y simulación.
 - Contribuciones en código abierto.
 - Investigación aplicada.
 
-## Skills:
+## Habilidades Técnicas:
 
-#### Languages:
+#### Lenguajes:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Hardware, IoT & Robotics:
+#### Hardware, IoT y Robótica:
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-#### AI & Computer Vision:
+#### IA y Visión por Computador:
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)&nbsp;
@@ -44,7 +44,7 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![SNN](https://img.shields.io/badge/SNN-FF6F00?style=for-the-badge)
 
-#### Tools & IDEs:
+#### Herramientas e IDEs:
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220?style=for-the-badge&logo=platformio&logoColor=white)&nbsp;
@@ -55,21 +55,21 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Design & Simulation:
+#### Diseño y Simulación:
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FAA21B?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D42A2A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![PySimVerse](https://img.shields.io/badge/PySimVerse-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![CNC](https://img.shields.io/badge/CNC-555555?style=for-the-badge)&nbsp;
-![3D Printing](https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge)
+![Impresión 3D](https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge)
 
-## 🚀 Featured Project
+## 🚀 Proyecto Destacado
 
 **[Pysimverse-DroneESP](https://github.com/farid3312/Pysimverse-DroneESP)**  
 Simulación de drones en Python + firmware ESP32 para lectura de sensores, control e interfaz.
 
-## Connect with me:
+## Conéctate conmigo:
 
 <p align = "center">
 
@@ -79,5 +79,7 @@ Simulación de drones en Python + firmware ESP32 para lectura de sensores, contr
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farid3312&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farid's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid3312&layout=compact&theme=buefy&hide_border=true" /></a> |
+## 📊 Estadísticas de GitHub
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farid3312&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Farid en GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid3312&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
