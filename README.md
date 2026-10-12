@@ -8,7 +8,7 @@ Líder de la División de Sistemas Inteligentes y Estratégicos – **IEEE AESS 
 Abierto a colaborar en robótica, drones, IoT y visión por computador.
 
 ## 🛠️ Stack principal
-- **Lenguajes:** Python, C, C++
+- **Lenguajes:** Python, C, C++, VHDL
 - **Hardware:** ESP32 (S3-CAM, E-N8, WROOM), Arduino, Raspberry Pi, Jetson Nano, sensores, PCB (EasyEDA)
 - **Herramientas:** VS Code, PlatformIO, Arduino IDE, Git/GitHub, Linux, ROS, FastAPI, Flask, PostgreSQL
 - **IA/Visión:** OpenCV, YOLO, MediaPipe, Edge Impulse, CUDA, SNN
