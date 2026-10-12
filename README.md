@@ -5,10 +5,11 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 **Mis Áreas de Interés**:
 - Sistemas Embebidos
 - IoT
-- Robótica
-- Visión por Computador
 - Redes Neuronales de Pulsos (SNN)
 - Simulación de Drones
+- Robótica
+- Visión por Computador
+
 
 **Estoy abierto a**:
 - Colaboraciones en robótica, drones, IoT y visión por computador.
