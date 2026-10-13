@@ -42,7 +42,6 @@ Estudiante de último año de Ingeniería Electrónica y Telecomunicaciones en l
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)&nbsp;
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-3B3B3B?style=for-the-badge)&nbsp;
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![SNN](https://img.shields.io/badge/SNN-FF6F00?style=for-the-badge)
 
 #### Herramientas e IDEs:
